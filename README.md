@@ -20,7 +20,7 @@ CrustNX is an optimized CFW Package for the Nintendo Switch. It contains more th
  + Sigpatch Installer
    - The sigpatches built for Atmosphère. I was not able to install/play games without these sigpatches on the newest firmware
    - https://github.com/HarukoNX/Sigpatch-Installer
- + Homebrew Appstore
+ + Homebrew App Store
    - An online app to install homebrew software over the internet
    - https://gitlab.com/4TU/hb-appstore
  + nxdumptool
