@@ -17,7 +17,7 @@ CrustNX is an optimized CFW Package for the Nintendo Switch. It contains more th
    - The best NSP, NSZ, XCI, and XCZ game installer (because Tinfoil hates Hekate for childish reasons)
    - Can install games from the SD card or save SD card storage by installing over USB, LAN, or the Internet
    - https://github.com/Huntereb/Awoo-Installer
- + Atmosphère Signature Patches
+ + Sigpatch Installer
    - The sigpatches built for Atmosphère. I was not able to install/play games without these sigpatches on the newest firmware
    - https://github.com/HarukoNX/Sigpatch-Installer
  + Homebrew Appstore
