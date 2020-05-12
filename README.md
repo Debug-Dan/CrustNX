@@ -33,4 +33,4 @@ CrustNX is an optimized CFW Package for the Nintendo Switch. It contains more th
    - Emulate using amiibos ('virtual' amiibos) using amiibo bin files
    - https://github.com/XorTroll/emuiibo
 ### Contact
-You can contact/message me on my official reddit account: https://www.reddit.com/user/PrayNightYT/
+You can contact/message me on my official reddit account: https://www.reddit.com/user/DebugDan_/
